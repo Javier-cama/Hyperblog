@@ -3,6 +3,8 @@ body {
     text-align: left;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 16px;
+    margin: 0;
+    padding: 0;
 }
 
 #container {
@@ -14,6 +16,27 @@ body {
 }
 
 #container h1 {
-    text-align: center;
+    text-align: left;
     font-size: 20px ;
+}
+
+#cabecera {
+    background-color: rgb(6, 48, 126);
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 0.5em;
+    filter: drop-shadow(30px 10px 4px #2b55df);
+
+}
+
+#post {
+    padding: 1em;
+} 
+
+#cabecera #tagline {
+    padding: 1em 0 0 0;
+    font-weight: normal;
+    font-size: 20px;
 }

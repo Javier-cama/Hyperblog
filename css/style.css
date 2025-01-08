@@ -50,9 +50,10 @@ body
 }
 
 #footer {
-    background: #1e78ff;
+    background: #0054d1;
     color: #ffffff;
     text-align: center;
-    padding: 0.5em;
-    border-radius: 50px;
+    padding: 0.8em;
+    border-radius: 60px;
+    filter: drop-shadow(30px 10px 4px #1c4ff7);
 }

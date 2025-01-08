@@ -12,7 +12,7 @@ body
 #cabecera
 {
     background: #506ee7;
-    filter: drop-shadow(30px 10px 4px #4444dd);
+    filter: drop-shadow(30px 15px 4px #4444dd);
     color: white;
     font-weight: bold;
     margin: 0;
@@ -35,6 +35,8 @@ body
 
 #container
 {
+    background: white;
+    height: 100%;
     width: 70%;
     padding: 0;
     text-align: left;
